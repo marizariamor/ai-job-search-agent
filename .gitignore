@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+shortlist*.md
+config/profile.local.json
+.env
