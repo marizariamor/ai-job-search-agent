@@ -1,0 +1,24 @@
+{
+  "target_keywords": {
+    "внедрени": 20,
+    "ии": 15,
+    "ai": 15,
+    "llm": 15,
+    "автоматизац": 15,
+    "project manager": 20,
+    "менеджер проект": 20,
+    "руководитель проект": 20,
+    "бизнес-аналит": 15,
+    "business analyst": 15,
+    "delivery": 10,
+    "операционн": 10,
+    "kpi": 5,
+    "bi": 5,
+    "гпх": 5
+  },
+  "lives_abroad": true,
+  "can_contract": true,
+  "english_level": "A2",
+  "min_salary_rub": 100000,
+  "skip_tech_heavy": true
+}
